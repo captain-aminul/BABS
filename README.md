@@ -10,4 +10,13 @@ Hyperspectral images (HSIs) contain many bands that can be used to obtain object
 | HOT 2023       | 0.515  | 0.770 | [Link](#)      |
 | HOT 2024       | 0.381  | 0.576 | [Another](#)   |
 
+# If this work is helpful to you, please cite it as:
+@article{islam2023background,
+  title={Background-aware band selection for object tracking in hyperspectral videos},
+  author={Islam, Mohammad Aminul and Zhou, Jun and Zhang, Weichuan and Gao, Yongsheng},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  year={2023},
+  publisher={IEEE}
+}
+# Some of the other papers you might find useful:
 
