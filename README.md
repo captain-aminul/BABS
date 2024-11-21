@@ -22,3 +22,4 @@ Hyperspectral images (HSIs) contain many bands that can be used to obtain object
 ```
 
 # Acknowledgment
+We would like to thank the VITAL and BAE-Net works. We really appreciate their excellent open-source work. 
