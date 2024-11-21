@@ -6,9 +6,9 @@ Hyperspectral images (HSIs) contain many bands that can be used to obtain object
 # Results
 |                | AUC    | DP    | link           |
 |----------------|------- |-------|----------------|
-| HOT 2022       | 0.616  | 0.901 | [Example](#)   |
-| HOT 2023       | 0.515  | 0.770 | [Link](#)      |
-| HOT 2024       | 0.381  | 0.576 | [Another](#)   |
+| HOT 2022       | 0.616  | 0.901 | [HOT 2022](#https://github.com/captain-aminul/BABS/tree/main/Results/HOT_2022)   |
+| HOT 2023       | 0.515  | 0.770 | [HOT 2023](#https://github.com/captain-aminul/BABS/tree/main/Results/HOT_2023)      |
+| HOT 2024       | 0.381  | 0.576 | [HOT 2024](#https://github.com/captain-aminul/BABS/tree/main/Results/HOT_2024)   |
 
 # If this work is helpful to you, please cite it as:
 ```bibtex
