@@ -18,6 +18,7 @@ Hyperspectral images (HSIs) contain many bands that can be used to obtain object
   journal={IEEE Geoscience and Remote Sensing Letters},
   year={2023},
   publisher={IEEE}
-}```
+}
 
-# **Acknowledgment**
+
+# Acknowledgment
