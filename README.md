@@ -19,5 +19,5 @@ Hyperspectral images (HSIs) contain many bands that can be used to obtain object
   year={2023},
   publisher={IEEE}
 }
-
+```bibtex
 # **Acknowledgment**
